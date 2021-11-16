@@ -1,5 +1,5 @@
-# minesweeper
-Minesweeper game in Python
+# Minesweeper
+Minesweeper game in Python.
 
 ## Start the game
 Run
