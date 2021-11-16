@@ -3,7 +3,7 @@ Minesweeper game in Python
 
 ## Start the game
 Run
-  python minesweeper.py --d=_difficulty_
+  '''python minesweeper.py --d=_difficulty_'''
 , where difficulty in [easy, medium, hard].
 
 Or run
