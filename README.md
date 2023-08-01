@@ -23,4 +23,16 @@ To start playing Minesweeper, follow these simple steps:
    ```
    Replace `<width>` with the desired width of the grid, `<height>` with the desired height, and `<#bombs>` with the number of bombs you want to place on the grid.
    
-   If you want to create a custom game without following the general grid rules (where the maximum number of bombs is calculated based on grid dimensions), you can add the parameter --ignore_rules=true.
+   If you want to create a custom game without following the general grid rules (where the maximum number of bombs is calculated based on grid dimensions), you can add the parameter `--ignore_rules=true`.
+
+## How to Play
+
+The objective of Minesweeper is to uncover all the cells on the grid except for the ones containing bombs. Here's how to play:
+
+1. The game begins with a grid of cells, some of which contain hidden bombs.
+2. Use the hints provided by the numbers on the revealed cells to deduce the positions of the bombs.
+3. To reveal a cell, input its coordinates (row and column) in the format row,column when prompted.
+4. If the revealed cell contains a bomb, the game is over, and you lose.
+5. If the revealed cell is empty (i.e., has no adjacent bombs), all adjacent cells will automatically be revealed. This can trigger a chain reaction of empty cells being revealed.
+6. If you believe a cell contains a bomb, you can mark it with a flag by entering f row,column.
+7. Continue revealing cells and marking bombs until all non-bomb cells are uncovered, and you win the game!
