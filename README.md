@@ -51,4 +51,12 @@ If you want to create a custom game, you can specify the grid's dimensions and t
 
 ## General Grid Rules
 
-By default, when creating a custom game, Minesweeper follows general grid rules to ensure an appropriate level of difficulty. The number of bombs is calculated based on the grid's dimensions, and it should not exceed the maximum allowed bombs for the given grid size. The minimum grid 
+By default, when creating a custom game, Minesweeper follows general grid rules to ensure an appropriate level of difficulty. The number of bombs is calculated based on the grid's dimensions, and it should not exceed the maximum allowed bombs for the given grid size. The minimum grid size is 5x5.
+
+## Have Fun!
+
+Have Fun!
+
+Minesweeper is a game of logic, deduction, and luck. With every move you make, you inch closer to either victory or defeat. So, put on your thinking cap, be careful with your choices, and most importantly, have fun!
+
+Get ready to immerse yourself in the challenging world of Minesweeper. Good luck and happy sweeping! 🚩💣
